@@ -12,8 +12,16 @@
 ### :octocat: My Stats
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qiqinyi&theme=bear" width=750  alt="stats graph"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qiqinyi&theme=tokyonight" width=750  alt="stats graph"/>
 </div>
+<!--
+<div class="badges-githubstats">
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=qiqinyi&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="aaronedev's Stats" height="165">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=qiqinyi&theme=tokyonight&hide_border=true" alt="aaronedev's Streak" height="165">
+  </p>
+</div>
+-->
 
 <!--
 <details>
