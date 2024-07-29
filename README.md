@@ -1,6 +1,6 @@
 ## Hey, I'm Jasmine! Nice to Meet You! 👋
 
-### My Stats
+### :octocat: My Stats
 
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qiqinyi&theme=bear" width=750  alt="stats graph"/>
@@ -8,7 +8,7 @@
 
 ---
 
-### Techs I Use
+### ⚡ Techs I Use
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
@@ -29,6 +29,9 @@
 </div>
 
 ---
+
+### 📫 Get in touch
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/qiqinyi) 
 
 <!--
 **qiqinyi/qiqinyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
