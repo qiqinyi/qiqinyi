@@ -1,19 +1,14 @@
 ## Hey, I'm Jasmine! Nice to Meet You! 👋
 
-<h2 align="center">My Stats</h2>
-
----
+### My Stats
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbTrax&theme=bear" width=750  alt="stats graph"/>
-
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qiqinyi&theme=bear" width=750  alt="stats graph"/>
 </div>
 
 ---
 
-<h2 align="center">Techs I Use</h2>
-
----
+### Techs I Use
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
